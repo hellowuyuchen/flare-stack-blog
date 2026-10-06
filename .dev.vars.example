@@ -3,7 +3,7 @@
 # （部署时 `cf deploy` 会保留机密，但会丢弃未写入配置的普通文本变量）。
 
 # --- 必填 ---
-BETTER_AUTH_SECRET=your-secret-key-run-openssl-rand-hex-32
+BETTER_AUTH_SECRET=VTGPKCSK77SHAWZLFVWIFAH2G2JKFTBV
 BETTER_AUTH_URL=https://wuyuchen.com/api/auth/callbck/github
 GITHUB_CLIENT_ID=Ov23liAUaXv33t8wOLiJ
 GITHUB_CLIENT_SECRET=8152f889c7b83a61c8d7065622ae51d1fa1930e9
